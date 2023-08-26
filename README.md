@@ -1,4 +1,4 @@
 # FastEat
 ### Demo Screeshots
 
-![Fasteat Desktop Demo](./readme-images\fasteat.jpg "Desktop Demo")
+"C:\Users\khush\Desktop\fasteat\image.png"
